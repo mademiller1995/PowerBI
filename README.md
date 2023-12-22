@@ -5,7 +5,7 @@
 <body>
   <div class="styled-box">
     <h1>Power BI - Auditoria de procesos</h1><br>
-    <p>Este proyecto "Dashboard de Auditoría Empresarial con Power BI" es una iniciativa diseñada para mejorar y optimizar el proceso de auditoría en nuestra organización. Aprovechando las capacidades de Power BI, hemos creado un sistema de informes y visualizaciones que permiten a nuestro equipo de auditoría acceder a datos cruciales de manera eficiente y tomar decisiones, la información de los ficheros ha sido exportado de . www.contextures.com/xlsampledata01.html#data </p><br>
+    <p>Proyecto de auditoria "Dashboard de Auditoría Empresarial con Power BI" es una iniciativa diseñada para mejorar y optimizar el proceso de auditoría en nuestra organización. Aprovechando las capacidades de Power BI, hemos creado un sistema de informes y visualizaciones que permiten a nuestro equipo de auditoría acceder a datos cruciales de manera eficiente y tomar decisiones, la información de los ficheros ha sido exportado de . www.contextures.com/xlsampledata01.html#data </p><br>
   
   `Power BI` <a href="https://powerbi.microsoft.com/es-es/desktop/">Descargar ahora</a><br> 
   `Power Automate` <a href="https://powerautomate.microsoft.com/es-es/">Descargar ahora</a><br>
